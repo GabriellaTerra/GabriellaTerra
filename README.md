@@ -19,7 +19,9 @@
     <p>Entre em contato comigo:</p>
   <a href = "mailto:gabriellaterra8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=pink" target="_blank"></a>
   <a href="https://https://www.linkedin.com/in/gabriella-terra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
    ![Snake animation](https://github.com/GabriellaTerra/GabriellaTerra/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 
