@@ -1,5 +1,6 @@
 🌎 Oi, sou a Gabe Terra! Bem-vindo ao meu GitHub!🌎
-- Atualmente sou desenvolvedora full-Stack em formação!
+- Sou desenvolvedora full-Stack em formação!
+- Atualmente estou estudando back-end
 <div align="center">
   <a href="https://https://github.com/GabriellaTerra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabriellaTerra&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
@@ -12,6 +13,7 @@
   <img align="center" alt="Terra-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Terra-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Terra-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Terra-PSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
    <img align="right" alt="gabeTerra-pic" height="200" style="border-radius:50px;" src="https://cdn.dribbble.com/users/1618925/screenshots/4048644/media/f72f075522793bf89830b89bfce3ec27.gif">
 </div>
   <div> 
