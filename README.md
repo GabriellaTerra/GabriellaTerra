@@ -14,7 +14,7 @@
   <img align="center" alt="Terra-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Terra-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Terra-PSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-   <img align="right" alt="gabeTerra-pic" height="150" style="border-radius:50px;" src="https://bestanimations.com/media/earth/1404153328earth-spinning-rotating-animation-15.gif">
+   <img align="right" alt="gabeTerra-pic" height="200" style="border-radius:50px;" src="https://bestanimations.com/media/earth/1404153328earth-spinning-rotating-animation-15.gif">
 </div>
   <div> 
     <br></br>
