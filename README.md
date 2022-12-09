@@ -1,6 +1,7 @@
-🌎 Oi, sou a Gabe Terra! Bem-vindo ao meu GitHub!🌎
-- Sou desenvolvedora full-Stack em formação!
-- Atualmente estou estudando back-end
+🌎 Hi , i'm Gabe Terra! Welcome to my GitHub!🌎
+- I'm a full-stack web developer in training!
+- I'm currently studying back-end tecnologies.
+- Here you can see some of my projects!
 <div align="center">
   <a href="https://https://github.com/GabriellaTerra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabriellaTerra&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
