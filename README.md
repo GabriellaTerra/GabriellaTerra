@@ -1,6 +1,6 @@
 🌎 Hi , i'm Gabe Terra! Welcome to my GitHub!🌎
-- I'm a full-stack web developer in training!
-- I'm currently studying back-end tecnologies.
+- I'm a full-stack web developer!
+- I'm currently studying UI/UX and web design.
 - Here you can see some of my projects!
 <div align="center">
   <a href="https://https://github.com/GabriellaTerra">
